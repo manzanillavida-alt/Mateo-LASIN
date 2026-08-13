@@ -1,0 +1,22 @@
+body{
+    background-color: #8A93A6;
+
+}
+h1{
+    color: bisque;
+}
+h2{
+    font-family: monospace;
+}
+p{
+    background-color: floralwhite;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.prueba{
+    background-color: azure;
+    font-family: sans-serif;
+    font-size: 30px;
+}
